@@ -1,0 +1,10 @@
+.idea
+node_modules
+*.db
+.vs
+data.db-journal
+/public/admin
+/public/ads.txt
+/public/*.xml
+package-lock.json
+yarn.lock
